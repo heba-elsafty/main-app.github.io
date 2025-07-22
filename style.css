@@ -9,6 +9,7 @@ body {
   overflow-x: hidden;
   background-color: #ebebeb;
   padding: 2rem;
+  height: 100vh;
 }
 
 iframe {
